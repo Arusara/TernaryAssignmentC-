@@ -1,3 +1,3 @@
-# TernaryFreelance
+# TernaryAssignemnt
 
 convert decimalToternary 
