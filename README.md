@@ -1,0 +1,3 @@
+# TernaryFreelance
+
+convert decimalToternary 
